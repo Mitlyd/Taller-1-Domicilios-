@@ -1,0 +1,7 @@
+=== FACTURA DE COMPRA ===
+ALITAS BBQ x6 -> $94200
+------------------------
+Subtotal: $94200
+Domicilio: $5000
+TOTAL A PAGAR: $99200
+¡Gracias por su compra!
