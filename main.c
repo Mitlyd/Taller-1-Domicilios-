@@ -113,9 +113,9 @@ int main() {
                 if(numItems == 0) {
                     printf("No puedes confirmar un pedido vacío.\n");
                 } else {
-                    FILE *factura = fopen("factura", "w");
+                    FILE *factura = fopen("factura.txt", "w");
                     if(factura == NULL) {
-                        printf(" Error al generar la factura.\n");
+                        printf(" Error al generar la factura.txt.\n");
                         break;
                     }
 
