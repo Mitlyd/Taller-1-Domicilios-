@@ -142,7 +142,7 @@ int main() {
 
                     fclose(factura);
 
-                    printf("\nFactura generada en 'factura'.\n");
+                    printf("\nFactura generada en 'factura.txt'.\n");
 
                     numItems = 0; // Reiniciar carrito
                 }

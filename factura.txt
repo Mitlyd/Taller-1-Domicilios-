@@ -1,7 +1,7 @@
 === FACTURA DE COMPRA ===
-PIZZA FAMILIAR x6 -> $150000
+ALITAS BBQ x5 -> $78500
 ------------------------
-Subtotal: $150000
+Subtotal: $78500
 Domicilio: $5000
-TOTAL A PAGAR: $155000
+TOTAL A PAGAR: $83500
 ¡Gracias por su compra!
